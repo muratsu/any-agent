@@ -6,7 +6,7 @@ Manage all your coding agents in one place. A unified interface for resuming ses
 
 ```sh
 npx -y any-agent@latest
-```
+```asd
 
 ## Installation
 
