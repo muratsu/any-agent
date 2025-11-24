@@ -9,7 +9,7 @@ npx -y any-agent@latest
 ```asd
 
 ## Installationsdfsdf
-asdasdasdasdsadasdfhhj
+asdasdasdasdsadasd
 If you want to install it and use the `resume` shortcut, you can do it via:
 
 ```sh
