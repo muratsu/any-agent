@@ -8,7 +8,7 @@ Manage all your coding agents in one place. A unified interface for resuming ses
 npx -y any-agent@latest
 ```
 ## Installationsdfsdf
-asdasdasdasdsadaalolz
+asdasdasdasdsadaalol
 If you want to install it and use the `resume` shortcut, you can do it via:
 
 ```sh
